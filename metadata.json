@@ -1,0 +1,7 @@
+{
+  "name": "Mental Wellbeing Companion",
+  "description": "Empathetic mental wellbeing companion with Sage AI chat, mindful check-ins, guided box breathing, journal reflections, and personal safety net protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
